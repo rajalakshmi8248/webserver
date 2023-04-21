@@ -63,7 +63,8 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ![OUTPUT](./output1.png)
-![OUTPUT](./webserver.png)
+![frameworks](https://user-images.githubusercontent.com/122860827/233539984-60d4c2ce-b5c7-4efd-97dc-63d57966b7f3.png)
+
 
 
 
